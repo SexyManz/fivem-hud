@@ -1,0 +1,815 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2021/07/26 21:00:43 */
+
+.wave:before,
+.wave2:after,
+.main,
+.wave2:before {
+    position: absolute;
+}
+
+.main {
+    padding-left: 0;
+}
+
+.main {
+    padding-bottom: 0;
+}
+
+.main {
+    padding-right: 0;
+}
+
+.main {
+    padding-top: 0;
+}
+
+ul {
+    padding-left: 0vw;
+}
+
+.main {
+    margin-left: 0;
+}
+
+.wave2:after,
+.wave:before,
+.wave2:before,
+[class~=wave]:after {
+    content: "";
+}
+
+.main {
+    margin-bottom: 0;
+}
+
+.main {
+    margin-right: 0;
+}
+
+[class~=wave]:after,
+.wave:before,
+.wave2:after,
+.wave2:before {
+    width: 200%;
+}
+
+.main {
+    margin-top: 0;
+}
+
+.wave2:before,
+[class~=wave]:after,
+.wave2:after,
+.wave:before {
+    height: 200%;
+}
+
+.main {
+    left: 43.1%;
+}
+
+.main {
+    bottom: .3%;
+}
+
+[class~=circle2],
+.circle {
+    top: 50%;
+}
+
+.wave2:after,
+.wave2:before {
+    top: var(--top, -50%);
+}
+
+[class~=wave]:after,
+[class~=circle3],
+.circle,
+.wave:before,
+.wave3:before,
+.wave2:before,
+.wave2:after,
+[class~=circle2] {
+    left: 50%;
+}
+
+[class~=circle2],
+.circle {
+    width: 2vw;
+}
+
+ul {
+    margin-left: 0pt;
+}
+
+[class~=circle2],
+.circle {
+    height: 2vw;
+}
+
+.wave2:before,
+[class~=wave]:after,
+.wave:before,
+.wave2:after {
+    transform: translate(-50%, -75%);
+}
+
+.wave2:after,
+.wave2:before {
+    background: #000;
+}
+
+.circle {
+    border-left-width: .125pc;
+}
+
+ul {
+    margin-bottom: 0pt;
+}
+
+.circle {
+    border-bottom-width: .125pc;
+}
+
+.circle {
+    border-right-width: .125pc;
+}
+
+.wave2:before {
+    border-radius: 75%;
+}
+
+[class~=wave2]:after,
+.wave2:before {
+    animation: animate 5s linear infinite;
+}
+
+[class~=wave2]:after {
+    border-radius: 40%;
+}
+
+[class~=wave2]:after {
+    background: rgba(225, 225, 225, .5);
+}
+
+.circle {
+    border-top-width: .125pc;
+}
+
+.circle {
+    border-left-style: solid;
+}
+
+.circle {
+    border-bottom-style: solid;
+}
+
+.circle {
+    border-right-style: solid;
+}
+
+.circle {
+    border-top-style: solid;
+}
+
+.circle {
+    border-left-color: transparent;
+}
+
+.circle {
+    border-bottom-color: transparent;
+}
+
+.circle {
+    border-right-color: transparent;
+}
+
+.circle {
+    border-top-color: transparent;
+}
+
+.circle {
+    border-image: none;
+}
+
+.circle {
+    box-shadow: 0 0 0 1.5pt #fa1d1d;
+}
+
+.circle,
+[class~=circle2] {
+    border-radius: 50%;
+}
+
+.circle,
+[class~=circle2] {
+    overflow: hidden;
+}
+
+.circle {
+    background-color: transparent;
+}
+
+.wave:before,
+[class~=wave]:after {
+    top: var(--top, -40%);
+}
+
+ul {
+    margin-right: 0pt;
+}
+
+[class~=wave]:after,
+.wave:before {
+    background: #000;
+}
+
+[class~=circle2] {
+    border-left-width: 1.5pt;
+}
+
+[class~=wave]:after,
+.wave3:before {
+    position: absolute;
+}
+
+[class~=circle2] {
+    border-bottom-width: 1.5pt;
+}
+
+[class~=circle2] {
+    border-right-width: 1.5pt;
+}
+
+[class~=circle2] {
+    border-top-width: 1.5pt;
+}
+
+[class~=circle2] {
+    border-left-style: solid;
+}
+
+[class~=circle2] {
+    border-bottom-style: solid;
+}
+
+[class~=circle2] {
+    border-right-style: solid;
+}
+
+[class~=circle2] {
+    border-top-style: solid;
+}
+
+[class~=circle2] {
+    border-left-color: transparent;
+}
+
+[class~=circle2] {
+    border-bottom-color: transparent;
+}
+
+[class~=circle2] {
+    border-right-color: transparent;
+}
+
+[class~=circle2] {
+    border-top-color: transparent;
+}
+
+[class~=circle2] {
+    border-image: none;
+}
+
+[class~=circle2] {
+    box-shadow: 0 0 0 1.5pt #a0a0a0;
+}
+
+[class~=circle3],
+[class~=circle4] {
+    top: 50%;
+}
+
+[class~=circle4],
+[class~=circle3] {
+    width: 2vw;
+}
+
+[class~=circle4],
+[class~=circle3] {
+    height: 2vw;
+}
+
+[class~=circle3] {
+    border-left-width: 1.5pt;
+}
+
+ul {
+    margin-top: 0pt;
+}
+
+[class~=circle3] {
+    border-bottom-width: 1.5pt;
+}
+
+.wave:before {
+    border-radius: 75%;
+}
+
+.wave3:after,
+[class~=wave3]:before,
+.wave:before,
+[class~=wave]:after {
+    animation: animate 5s linear infinite;
+}
+
+[class~=wave]:after {
+    border-radius: 40%;
+}
+
+[class~=circle3] {
+    border-right-width: 1.5pt;
+}
+
+[class~=wave]:after {
+    background: rgba(225, 225, 225, .5);
+}
+
+[class~=circle3] {
+    border-top-width: 1.5pt;
+}
+
+[class~=circle3] {
+    border-left-style: solid;
+}
+
+[class~=circle3] {
+    border-bottom-style: solid;
+}
+
+[class~=circle3] {
+    border-right-style: solid;
+}
+
+[class~=circle3] {
+    border-top-style: solid;
+}
+
+[class~=circle3] {
+    border-left-color: transparent;
+}
+
+.wave3:before,
+[class~=wave3]:after,
+.wave4:before,
+.wave4:after {
+    content: "";
+}
+
+[class~=circle3] {
+    border-bottom-color: transparent;
+}
+
+[class~=circle3] {
+    border-right-color: transparent;
+}
+
+[class~=wave3]:after,
+.wave4:after,
+.wave3:before,
+.wave4:before {
+    width: 200%;
+}
+
+[class~=circle3] {
+    border-top-color: transparent;
+}
+
+.wave3:before,
+.wave4:before,
+[class~=wave3]:after,
+.wave4:after {
+    height: 200%;
+}
+
+.wave4:after,
+[class~=wave3]:after,
+.wave3:before,
+.wave4:before {
+    top: var(--top, -50%);
+}
+
+[class~=circle3] {
+    border-image: none;
+}
+
+[class~=circle3] {
+    box-shadow: 0 0 0 .125pc #e0ac00;
+}
+
+[class~=circle3],
+[class~=circle4] {
+    border-radius: 50%;
+}
+
+[class~=wave3]:after,
+.wave3:before,
+.wave4:after,
+.wave4:before {
+    transform: translate(-50%, -75%);
+}
+
+[class~=circle3],
+[class~=circle4] {
+    overflow: hidden;
+}
+
+[class~=circle4],
+[class~=circle5],
+[class~=wave3]:after,
+.wave4:before {
+    left: 50%;
+}
+
+.wave3:before,
+[class~=wave3]:after {
+    background: #000;
+}
+
+[class~=wave5]:before,
+.wave4:before,
+.wave4:after,
+[class~=wave3]:after {
+    position: absolute;
+}
+
+[class~=circle4] {
+    border-left-width: .125pc;
+}
+
+[class~=circle4] {
+    border-bottom-width: .125pc;
+}
+
+[class~=circle4] {
+    border-right-width: .125pc;
+}
+
+[class~=wave3]:before {
+    border-radius: 75%;
+}
+
+[class~=circle4] {
+    border-top-width: .125pc;
+}
+
+[class~=circle4] {
+    border-left-style: solid;
+}
+
+.wave3:after {
+    border-radius: 40%;
+}
+
+img {
+    width: 70%;
+}
+
+[class~=circle4] {
+    border-bottom-style: solid;
+}
+
+[class~=circle4] {
+    border-right-style: solid;
+}
+
+.wave3:after {
+    background: rgba(225, 225, 225, .5);
+}
+
+[class~=circle4] {
+    border-top-style: solid;
+}
+
+[class~=circle4] {
+    border-left-color: transparent;
+}
+
+[class~=circle4] {
+    border-bottom-color: transparent;
+}
+
+[class~=circle4] {
+    border-right-color: transparent;
+}
+
+[class~=circle4] {
+    border-top-color: transparent;
+}
+
+[class~=circle4] {
+    border-image: none;
+}
+
+[class~=circle4] {
+    box-shadow: 0 0 0 .125pc #1eb7e6;
+}
+
+.wave4:before,
+.wave4:after {
+    background: #000;
+}
+
+[class~=circle5],
+[class~=circle6] {
+    top: 50%;
+}
+
+[class~=circle5],
+[class~=circle6] {
+    width: 2vw;
+}
+
+[class~=circle6],
+[class~=circle5] {
+    height: 2vw;
+}
+
+[class~=circle5] {
+    border-left-width: .020833333in;
+}
+
+[class~=circle5] {
+    border-bottom-width: .020833333in;
+}
+
+[class~=circle5] {
+    border-right-width: .020833333in;
+}
+
+[class~=circle5] {
+    border-top-width: .020833333in;
+}
+
+[class~=circle5] {
+    border-left-style: solid;
+}
+
+[class~=circle6],
+[class~=wave5]:before,
+[class~=wave5]:after,
+.wave4:after {
+    left: 50%;
+}
+
+[class~=wave4]:before {
+    border-radius: 75%;
+}
+
+[class~=circle5] {
+    border-bottom-style: solid;
+}
+
+[class~=circle5] {
+    border-right-style: solid;
+}
+
+[class~=wave4]:after,
+[class~=wave4]:before {
+    animation: animate 5s linear infinite;
+}
+
+[class~=circle5] {
+    border-top-style: solid;
+}
+
+[class~=wave4]:after {
+    border-radius: 40%;
+}
+
+[class~=circle5] {
+    border-left-color: transparent;
+}
+
+[class~=circle5] {
+    border-bottom-color: transparent;
+}
+
+[class~=wave4]:after {
+    background: rgba(225, 225, 225, .5);
+}
+
+[class~=circle5] {
+    border-right-color: transparent;
+}
+
+[class~=circle5] {
+    border-top-color: transparent;
+}
+
+[class~=wave5]:after,
+[class~=wave5]:before {
+    content: "";
+}
+
+[class~=circle5] {
+    border-image: none;
+}
+
+[class~=circle5] {
+    box-shadow: 0 0 0 .020833333in #677bbb;
+}
+
+[class~=circle5],
+[class~=circle6] {
+    border-radius: 50%;
+}
+
+[class~=wave5]:before,
+[class~=wave5]:after {
+    width: 200%;
+}
+
+[class~=wave5]:after,
+[class~=wave5]:before {
+    height: 200%;
+}
+
+[class~=wave5]:before,
+[class~=wave5]:after {
+    top: var(--top, -50%);
+}
+
+[class~=circle5],
+[class~=circle6] {
+    overflow: hidden;
+}
+
+[class~=wave5]:before,
+[class~=wave5]:after {
+    transform: translate(-50%, -75%);
+}
+
+ul>li {
+    display: inline-block;
+}
+
+[class~=wave5]:after,
+[class~=wave5]:before {
+    background: #000;
+}
+
+ul>li {
+    margin-left: 3.75pt;
+}
+
+img,
+[class~=wave5]:after {
+    position: absolute;
+}
+
+[class~=circle6] {
+    border-left-width: .125pc;
+}
+
+[class~=circle6] {
+    border-bottom-width: .125pc;
+}
+
+[class~=circle6] {
+    border-right-width: .125pc;
+}
+
+[class~=circle6] {
+    border-top-width: .125pc;
+}
+
+[class~=circle6] {
+    border-left-style: solid;
+}
+
+[class~=circle6] {
+    border-bottom-style: solid;
+}
+
+[class~=circle6] {
+    border-right-style: solid;
+}
+
+[class~=circle6] {
+    border-top-style: solid;
+}
+
+[class~=circle6] {
+    border-left-color: transparent;
+}
+
+[class~=circle6] {
+    border-bottom-color: transparent;
+}
+
+[class~=circle6] {
+    border-right-color: transparent;
+}
+
+[class~=circle6] {
+    border-top-color: transparent;
+}
+
+[class~=wave5]:before {
+    border-radius: 75%;
+}
+
+[class~=circle6] {
+    border-image: none;
+}
+
+[class~=wave3],
+[class~=wave2],
+.wave4,
+.wave5,
+[class~=wave] {
+    position: relative;
+}
+
+[class~=wave5]:before,
+[class~=wave5]:after {
+    animation: animate 5s linear infinite;
+}
+
+.wave5,
+.wave4,
+[class~=wave3],
+[class~=wave2],
+[class~=wave] {
+    width: 100%;
+}
+
+[class~=wave5]:after {
+    border-radius: 40%;
+}
+
+[class~=wave5]:after {
+    background: rgba(225, 225, 225, .5);
+}
+
+.wave4,
+[class~=wave],
+[class~=wave3],
+.wave5,
+[class~=wave2] {
+    height: 100%;
+}
+
+[class~=wave] {
+    background: #fa1d1d;
+}
+
+[class~=wave2],
+.wave5,
+[class~=wave3],
+.wave4,
+[class~=wave] {
+    border-radius: 20%;
+}
+
+img {
+    top: 50%;
+}
+
+[class~=wave2] {
+    background: #a0a0a0;
+}
+
+[class~=wave3] {
+    background: #e0ac00;
+}
+
+.wave4 {
+    background: #0084ff;
+}
+
+.wave5 {
+    background: #2685aa;
+}
+
+img {
+    left: 50%;
+}
+
+img {
+    transform: translate(-50%, -50%);
+}
+
+img {
+    background-color: transparent;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(-50%, -75%) rotate(0deg);
+    }
+    100% {
+        transform: translate(-50%, -75%) rotate(360deg);
+    }
+}
