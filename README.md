@@ -3,9 +3,12 @@ Fivem Hud By [Sex Leak](https://discord.gg/xY8JngNJtc)
 <br>
 
 # Features
-Player job
-Player gang
-Player cashmoney
+Player job<br>
+
+Player gang<br>
+
+Player cashmoney<br>
+
 
 <br>
 
